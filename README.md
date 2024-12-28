@@ -8,11 +8,11 @@ I graduated from [CDAC ACTS Pune](https://www.cdac.in/) with a **DESD (Diploma i
 
 ### My Key Skills 🛠️:
 - **Languages**: 
-    - [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [C](https://en.wikipedia.org/wiki/C_(programming_language))
-    - [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-    - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [Python](https://www.python.org/)
-    - [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/) [Rust](https://www.rust-lang.org/)
-    - [![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C) [Embedded C](https://en.wikipedia.org/wiki/Embedded_C)
+    - [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+    - [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+    - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+    - [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+    - [![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C)
 
 - **Embedded Systems**:
     - Baremetal Embedded Programming 💻
@@ -22,8 +22,8 @@ I graduated from [CDAC ACTS Pune](https://www.cdac.in/) with a **DESD (Diploma i
     - **Operating Systems**: Linux 🐧, FreeRTOS 🌐
 
 - **Communication Protocols**:
-    - [![CoAP](https://img.shields.io/badge/CoAP-006F8C?style=flat&logo=internet-explorer&logoColor=white)](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol)
-    - [![HTTP](https://img.shields.io/badge/HTTP-00599C?style=flat&logo=google-chrome&logoColor=white)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+    - [![CoAP](https://img.shields.io/badge/CoAP-006F8C?style=flat&logo=internet-explorer&logoColor=white)](https://en.wikipedia.org/wiki/Constrained_Application_Protocol)
+    - [![HTTP](https://img.shields.io/badge/HTTP-00599C?style=flat&logo=google-chrome&logoColor=white)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
 - **File Systems**: FAT 📂, SPIFFS 📁, custom file systems for embedded devices
 
@@ -62,8 +62,8 @@ Key subjects: Embedded C, RTOS, Device Drivers, Communication Protocols, and Emb
 
 Feel free to connect with me through the following channels:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [![Email](https://img.shields.io/badge/Email-FF3C00?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) [Email](mailto:your-email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![Email](https://img.shields.io/badge/Email-FF3C00?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 If you are interested in any of my projects or want to collaborate on an embedded systems project, feel free to reach out!
 
